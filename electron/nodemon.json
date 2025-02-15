@@ -1,6 +1,0 @@
-{
-    "watch": [],
-    "ignore": ["*"],
-    "exec": "electron .",
-    "restartable": "r"
-}

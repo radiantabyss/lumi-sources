@@ -1,3 +1,0 @@
-BUILDER=electron
-FRONT_PATH=../front
-PUBLISH_SERVERS=51.15.118.2::/var/www/deck/front/public/releases
